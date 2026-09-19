@@ -6,5 +6,6 @@ has four of her pieces placed consecutively horizontally, vertically or diagonal
 In this game, I have used '1' and '2' instead of yellow and red columns. I have designed it on my own so you can look and change the design accordingly.
 
 Compilation Command
-<ins> ***"g++ Connect4Game.cpp"*** </ins> in the Terminal
+<ins># ***"g++ Connect4Game.cpp"*** </ins> 
+in the Terminal
 
